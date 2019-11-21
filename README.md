@@ -1,2 +1,2 @@
-# flask-heroku-starter-pack
-Starter pack for a Flask app deployed to Heroku
+# actions-flask-heroku
+sandbox to try out GitHub actions with Flask on Heroku
