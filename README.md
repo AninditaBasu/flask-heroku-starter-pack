@@ -1,8 +1,13 @@
 # Flask for Heroku
 
+
+Click to see: [![App on Heroku](https://img.shields.io/badge/App%20on-Heroku-brightgreen)](https://flask-heroku-starter-app.herokuapp.com/)  
+Click to read: [![Post on dev.to](https://img.shields.io/badge/Post%20on-dev.to-blueviolet)](https://dev.to/aninditabasu/how-to-move-your-flask-app-from-the-local-machine-to-the-heroku-cloud-egk)
+
 ## _The unofficial :slightly_smiling_face: starter pack_
 
 This repository has everything you need to get a _basic_ web app in Python to run on Heroku. Consequently, the repo has the barest minimum files needed to build a web app with Flask.
+
 
 ### How to use
 
