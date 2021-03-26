@@ -1,7 +1,7 @@
 # Flask for Heroku
 
 
-Click to see :point_right: [![App on Heroku](https://img.shields.io/badge/App%20on-Heroku-brightgreen)](https://flask-heroku-starter-app.herokuapp.com/)  ................  Click to read :point_right: [![Post on dev.to](https://img.shields.io/badge/Post%20on-dev.to-blueviolet)](https://dev.to/aninditabasu/how-to-move-your-flask-app-from-the-local-machine-to-the-heroku-cloud-egk)
+Click to read :point_right: [![Post on dev.to](https://img.shields.io/badge/Post%20on-dev.to-blueviolet)](https://dev.to/aninditabasu/how-to-move-your-flask-app-from-the-local-machine-to-the-heroku-cloud-egk)
 
 ## _The unofficial :slightly_smiling_face: starter pack_
 
