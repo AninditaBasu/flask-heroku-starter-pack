@@ -21,28 +21,28 @@ This repository has everything you need to get a _basic_ web app in Python to ru
 <dl>
 
 <dt>templates/first_page.html *</dt>
-<dd>_Required._ This is the app home page that's displayed when the app is launched.</dd>
+<dd><i>Required</i>. This is the app home page that's displayed when the app is launched.</dd>
 
-<dt>- templates/response_page.html *</dt>
-<dd>_Required._ This page is displayed after someone enters an input on the app home page.</dd>
+<dt>templates/response_page.html *</dt>
+<dd><i>Required</i>. This page is displayed after someone enters an input on the app home page.</dd>
   
-<dt>- flaskStarter.py *</dt>
-<dd>_Required._ This is your Flask app.</dd>
+<dt>flaskStarter.py *</dt>
+<dd><i>Required</i>. This is your Flask app.</dd>
 
-<dt>- LICENSE</dt>
-<dd>_Optional._ The license under which I'm making available this repo. Not required for the app to work.</dd>
+<dt>LICENSE</dt>
+<dd><i>Optional</i>. The license under which I'm making this repo available. Not required for the app to work.</dd>
 
-<dt>- Pipfile *</dt>
-<dd>_Required._ Tells Heroku which Python packages to install in the environment before building the app.</dd>
+<dt>Pipfile *</dt>
+<dd><i>Required</i>. Tells Heroku which Python packages to install in the environment before building the app.</dd>
 
-<dt>- Procfile *</dt>
-<dd>_Required._ Tells Heroku how to launch the app (which, in this case, is as a web page).</dd>
+<dt>Procfile *</dt>
+<dd><i>Required</i>. Tells Heroku how to launch the app (which, in this case, is as a web page).</dd>
 
-<dt>- README.md</dt>
-<dd>_Optional._ Not needed to make your app run. Is also the file you're reading right now.</dd>
+<dt>README.md</dt>
+<dd><i>Optional</i>. Not needed to make your app run. Is also the file you're reading right now.</dd>
 
-<dt>- requirements.txt *</dt>
-<dd>_Required._ Tells Heroku the versions of the Python packages needed.</dd>
+<dt>requirements.txt *</dt>
+<dd><i>Required</i>. Tells Heroku the versions of the Python packages needed.</dd>
 
 </dl>
 
